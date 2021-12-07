@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **tanvirniloy428@gmail.com**
 
-- ⚡ Fun fact **Sometimes Codes Are Boring to me**
 
 <h3 align="left">Connect with me:</h3>
 
