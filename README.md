@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-niloy" alt="tanvir-niloy" /></a> </p>
 
-- 🔭 I’m currently working on [A Ecommerce Project](smartshops.vercel.app)
+- 🔭 I’m currently working on a Chat Application
 
 - 🌱 I’m currently learning **Nextjs,ReactNative,Php**
 
 - 🤝 I’m looking for help with **Mern Stack Project**
 
-- 📝 I regularly write articles on [programmingbee.verce.app](programmingbee.verce.app)
+- 📝 I regularly write articles on [programmingbee.verce.app](programmingbee.vercel.app)
 
 - 💬 Ask me about **Everyrhing You Want about Programming Related**
 
